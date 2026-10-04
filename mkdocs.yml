@@ -1,4 +1,5 @@
 site_name: My Blog
+site_url: https://norpe372.github.io/my-blog/
 theme:
   name: material
 plugins:
